@@ -1,0 +1,5 @@
+Implementar en C++ una clase que represente un punto en un plano utilizando coordenadas 
+cartesianas. Proveer operaciones para obtener y modificar la posición del punto en el plano.
+
+A su vez, implementar en C++ una clase que represente un segmento en un plano. Proveer 
+una operación que calcule el largo del segmento
